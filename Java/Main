@@ -1,0 +1,8 @@
+package Java.Demo;
+
+public class Main{
+
+    public static void Main(String[] args){
+        Demo x = new Demo("Hello People");
+    }
+}
