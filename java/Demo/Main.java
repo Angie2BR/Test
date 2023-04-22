@@ -1,4 +1,4 @@
-package java.Demo;
+package java.demo;
 
 
 
